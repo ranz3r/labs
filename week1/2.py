@@ -1,3 +1,3 @@
-import sys
-
-print(sys.version)
+a = '''hello
+how r u'''
+print(a)
