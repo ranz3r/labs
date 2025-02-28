@@ -1,6 +1,7 @@
 import re
 
-with open('row.txt', 'r') as f:
+with open(r'C:\Users\maksa\Desktop\labs\lab5\row.txt', 'r') as f:
+
     pat = r'ab{2,3}'
     l = f.read().split()
 
